@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :school: First-year graduate student of Shanghai Jiao Tong University (SJTU)
-- :mailbox: Contact me at 904423848@qq.com or SQshenqi@sjtu.edu.cn
+- :link: My blog https://MKMQ99.github.io
+- :mailbox: Contact me SQshenqi@sjtu.edu.cn
 - <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=MKMQ99&hide=contribs,prs,issues&theme=cobalt" /><img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKMQ99&langs_count=8&hide=Jupyter%20Notebook,html,css,Vue,cmake,javascript,go&theme=cobalt&layout=compact" />
 
