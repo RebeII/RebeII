@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :school: First-year graduate student of Shanghai Jiao Tong University (SJTU)
+- :mailbox: Contact me at 904423848@qq.com or SQshenqi@sjtu.edu.cn
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=MKMQ99)]()
